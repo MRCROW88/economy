@@ -25,7 +25,7 @@ module.exports = {
 function getAll(client, message) {
     const embed = new MessageEmbed()
         .setColor("#FFDFD3")
-        .setThumbnail("https://cdn.discordapp.com/avatars/546100087579738133/ea87b6e238044da37381c2277987fd3e.webp")
+        .setThumbnail("https://i.pinimg.com/originals/b3/3c/49/b33c492f29f076330369207a2c6ce96d.gif")
         .setTitle('Help Menu')
         .setURL('https://www.youtube.com/watch?v=X1JRoP0xCqs')
         .setFooter("To see command descriptions and usage type .help [CMD Name]")
